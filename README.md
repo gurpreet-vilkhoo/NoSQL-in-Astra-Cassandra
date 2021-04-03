@@ -1,6 +1,6 @@
 # NoSQL-in-Astra-Cassandra
 
-Working on Tabular, document, key-value and Graph databases using Cassandra on Astra
+Working on Tabular, document, key-value databases using Cassandra on Astra
 
 #### 1. Working with Tabular Database in CQL Coonsole
 
@@ -13,3 +13,6 @@ Working on Tabular, document, key-value and Graph databases using Cassandra on A
 
 #### 3. Key- value database in GraphQL Playground
 ![image](https://user-images.githubusercontent.com/80466173/113469643-e720d700-946c-11eb-9951-b9a624d57d32.png)
+
+
+
